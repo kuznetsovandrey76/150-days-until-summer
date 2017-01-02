@@ -16,7 +16,8 @@ git push
 **Useful link(s)**:  
 1. [За основу я взял данный репозиторий](https://github.com/Kallaway/100-days-of-code)  
 2. [Вектор развития с dwyl](https://github.com/dwyl/start-here)  
-3. Азы markdown: [markdowntutorial](http://www.markdowntutorial.com/), [github](https://guides.github.com/features/mastering-markdown/) + [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :fire: 
+3. Азы markdown: [markdowntutorial](http://www.markdowntutorial.com/), [github](https://guides.github.com/features/mastering-markdown/) + [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :fire:  
+4. [про жизнь - Вадим Макишвили](https://youtu.be/nIFClfBXuIQ) // youtube 1:06:31
 
 [FreeCodeCamp]: https://www.freecodecamp.com/kuznetsovandrey76
 [cs50]: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
