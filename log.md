@@ -2,6 +2,7 @@
 ### Day 1: January 3, Tuesday  
 **Today's Progress**:  
 1. Пройдено :six: Intermediate Algorithm Scripting challenges на [Free Code Camp][FreeCodeCamp]  
+2. Прошел Objects and Arrays on Pluralsight // _JavaScript - From Fundamentals to Functional JS_  
 **Thoughts**:  
 **Useful link(s)**:  
 1. [HTML characters](https://dev.w3.org/html5/html-author/charref) - _коды элементов_
