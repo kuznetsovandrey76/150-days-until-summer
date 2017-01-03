@@ -3,9 +3,11 @@
 **Today's Progress**:  
 1. Пройдено :six: Intermediate Algorithm Scripting challenges на [Free Code Camp][FreeCodeCamp]  
 2. Прошел Objects and Arrays on Pluralsight // _JavaScript - From Fundamentals to Functional JS_  
-**Thoughts**:  
+**Thoughts**: Мысли глобально и критически, изучай новое, двигайся к цели, не забывай про спорт 🏃 и отдых  
 **Useful link(s)**:  
-1. [HTML characters](https://dev.w3.org/html5/html-author/charref) - _коды элементов_
+1. [HTML characters](https://dev.w3.org/html5/html-author/charref) - _коды элементов_  
+2. [topcoder](https://www.topcoder.com/members/kuznetsovandrey/) - _спортивное программирование_  
+3. [hackerrank](https://www.hackerrank.com/and_rey_q) -  _задания по программированию_  
 
 ### Day 0: January 2, Monday ![@kuznetsovandrey76](https://avatars2.githubusercontent.com/u/16838647?v=3&s=16)   
 **Today's Progress**:  
