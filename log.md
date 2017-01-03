@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 1: January 3, Tuesday  
+**Today's Progress**:  
+1. Пройдено :six: Intermediate Algorithm Scripting challenges на [Free Code Camp][FreeCodeCamp]  
+**Thoughts**:  
+**Useful link(s)**:  
+1. [HTML characters](https://dev.w3.org/html5/html-author/charref) - _коды элементов_
+
 ### Day 0: January 2, Monday ![@kuznetsovandrey76](https://avatars2.githubusercontent.com/u/16838647?v=3&s=16)   
 **Today's Progress**:  
 1. Изучен раздел Video Challenges: Computer Basics на [Free Code Camp][FreeCodeCamp]  
