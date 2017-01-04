@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 2: January 4, Wednesday 
+**Today's Progress**:  
+1. Джон Резиг, Беэр Бибо - Секреты JavaScript ниндзя - _углубленное понимание работы function_  
+**Thoughts**:  
+**Useful link(s)**:  
+1. [Тестирование JavaScript](https://learn.javascript.ru/testing) - И. Кантор
+
 ### Day 1: January 3, Tuesday  
 **Today's Progress**:  
 1. Пройдено :six: Intermediate Algorithm Scripting challenges на [Free Code Camp][FreeCodeCamp]  
