@@ -1,10 +1,13 @@
 # 150 Days until Summer - Log  
 ### Day 2: January 4, Wednesday 
 **Today's Progress**:  
-1. Джон Резиг, Беэр Бибо - Секреты JavaScript ниндзя - _углубленное понимание работы function_  
-**Thoughts**:  
+1. :books: Джон Резиг, Беэр Бибо - Секреты JavaScript ниндзя - _углубленное понимание работы function_  
+2. Пара-тройка заданий на [Free Code Camp][FreeCodeCamp]  
+**Thoughts**:   
+**Новогодние поздравления** [chingu](https://youtu.be/QQ82dreEaXU) - _посоветовал ребятам сделать нарезки и вот что получилось_. Если тебе что-то нравиться, обязательно оставляй свой комментарий. Очень приятно слышать добрые слова про сделанную тобой работу.  
 **Useful link(s)**:  
-1. [Тестирование JavaScript](https://learn.javascript.ru/testing) - И. Кантор
+1. [Тестирование JavaScript](https://learn.javascript.ru/testing) - И. Кантор  
+2. [Советы от P1xt](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027) - _заглядывай сюда периодически_
 
 ### Day 1: January 3, Tuesday  
 **Today's Progress**:  
