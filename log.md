@@ -1,4 +1,15 @@
-# 150 Days until Summer - Log  
+# 150 Days until Summer - Log   
+### Day 3: January 5, Thursday   
+**Today's Progress**:   
+1. Доработал свои проекты на [GitHub][GitHub]: [Caesars Cipher](https://github.com/kuznetsovandrey76/caesar), [Random Quote](https://github.com/kuznetsovandrey76/bbt)     
+**Thoughts**:  
+С каждым новым днем [видео от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) становятся все понятнее и понятнее  
+**Useful link(s)**:  
+1. [SVG w3schools](http://www.w3schools.com/graphics/svg_intro.asp)  
+2. [SVG tutorials](http://tutorials.jenkov.com/svg/index.html) - _удивительно полезный ресурс_  
+3. [SVG MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+
+
 ### Day 2: January 4, Wednesday 
 **Today's Progress**:  
 1. :books: Джон Резиг, Беэр Бибо - Секреты JavaScript ниндзя - _углубленное понимание работы function_  
@@ -39,7 +50,8 @@ git push
 3. Азы markdown: [markdowntutorial](http://www.markdowntutorial.com/), [github](https://guides.github.com/features/mastering-markdown/) + [emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :fire:  
 4. [про жизнь - Вадим Макишвили](https://youtu.be/nIFClfBXuIQ) // youtube 1:06:31
 
-[FreeCodeCamp]: https://www.freecodecamp.com/kuznetsovandrey76
-[cs50]: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info
+[FreeCodeCamp]: https://www.freecodecamp.com/kuznetsovandrey76  
+[cs50]: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info  
+[GitHub]: https://github.com/kuznetsovandrey76
 
 
