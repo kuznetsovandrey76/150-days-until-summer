@@ -1,14 +1,15 @@
 # 150 Days until Summer - Log   
 ### Day 3: January 5, Thursday   
 **Today's Progress**:   
-1. Доработал свои проекты на [GitHub][GitHub]: [Caesars Cipher](https://github.com/kuznetsovandrey76/caesar), [Random Quote](https://github.com/kuznetsovandrey76/bbt)     
+1. Доработал свои проекты на [GitHub][GitHub]: [Caesars Cipher](https://github.com/kuznetsovandrey76/caesar), [Random Quote](https://github.com/kuznetsovandrey76/bbt)   
+2. [Hexlet][Hexlet] - освежил изученный материал  
 **Thoughts**:  
-С каждым новым днем [видео от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) становятся все понятнее и понятнее  
+С каждым новым днем [видео от Sorax](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) становятся все понятнее и понятнее. Если что-то очень долго не получается, отвлекись. Займись чем-нибудь другим, **может не сразу, но ответ сам тебя найдет!**  
 **Useful link(s)**:  
 1. [SVG w3schools](http://www.w3schools.com/graphics/svg_intro.asp)  
 2. [SVG tutorials](http://tutorials.jenkov.com/svg/index.html) - _удивительно полезный ресурс_  
-3. [SVG MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
-
+3. [SVG MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)  
+4. [Hexlet][Hexlet] - _must have_
 
 ### Day 2: January 4, Wednesday 
 **Today's Progress**:  
@@ -53,5 +54,6 @@ git push
 [FreeCodeCamp]: https://www.freecodecamp.com/kuznetsovandrey76  
 [cs50]: https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/info  
 [GitHub]: https://github.com/kuznetsovandrey76
+[Hexlet]: https://ru.hexlet.io/my
 
 
