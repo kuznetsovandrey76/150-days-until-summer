@@ -6,6 +6,7 @@
 **Useful link(s)**:  
 1. [HTML Color Names](http://www.w3schools.com/TAgs/ref_colornames.asp) - _цвета без прекрас_  
 2. [highlight.js](https://highlightjs.org/usage/) - _библиотека для отбражения кода на странице_  
+3. [клад](http://www.w3schools.com/charsets/ref_utf_symbols.asp) - _еще сиволы HTML_  
 
 ### Day 3: January 5, Thursday   
 **Today's Progress**:   
