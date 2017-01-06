@@ -1,8 +1,9 @@
 # 150 Days until Summer - Log   
 ### Day 4: January 6, Friday   
 **Today's Progress**:  
-1. [javascript30](https://javascript30.com/) - _сегодня вплотную работаем с WesBos'ом :muscle:_ и [моё творенье](https://kuznetsovandrey76.github.io/JavaScript30/)     
-**Thoughts**:  
+1. [javascript30](https://javascript30.com/) - _сегодня вплотную работаем с WesBos'ом :muscle:_ здесь [моё творенье](https://kuznetsovandrey76.github.io/JavaScript30/)  
+2. Продолжаю двигаться вперед на [Free Code Camp][FreeCodeCamp]   
+**Thoughts**: Учись у лучших и смотри WesBos'a. Как же хорошо понимаешь шутки и проблемы в сериале [Silicon Valley](https://www.kinopoisk.ru/film/723959/)  
 **Useful link(s)**:  
 1. [HTML Color Names](http://www.w3schools.com/TAgs/ref_colornames.asp) - _цвета без прекрас_  
 2. [highlight.js](https://highlightjs.org/usage/) - _библиотека для отбражения кода на странице_  
