@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log   
+### Day 4: January 6, Friday   
+**Today's Progress**:  
+1. [javascript30](https://javascript30.com/) - _сегодня вплотную работаем с WesBos'ом :muscle:_ и [моё творенье](https://kuznetsovandrey76.github.io/JavaScript30/)     
+**Thoughts**:  
+**Useful link(s)**:  
+1. [HTML Color Names](http://www.w3schools.com/TAgs/ref_colornames.asp) - _цвета без прекрас_  
+2. [highlight.js](https://highlightjs.org/usage/) - _библиотека для отбражения кода на странице_  
+
 ### Day 3: January 5, Thursday   
 **Today's Progress**:   
 1. Доработал свои проекты на [GitHub][GitHub]: [Caesars Cipher](https://github.com/kuznetsovandrey76/caesar), [Random Quote](https://github.com/kuznetsovandrey76/bbt)   
