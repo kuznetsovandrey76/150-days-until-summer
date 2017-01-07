@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log   
+### Day 5: January 7, Saturday   
+**Today's Progress**:  
+**Thoughts**:  
+**Useful link(s)**:  
+1. [И. Кантор](https://learn.javascript.ru/welcome-to-slack) - _about Slack_  
+2. [loftschool](https://loftschool.com/uploads/manuals/web-adv.pdf) - _Все прелести Slack_  
+
 ### Day 4: January 6, Friday   
 **Today's Progress**:  
 1. [javascript30](https://javascript30.com/) - _сегодня вплотную работаем с WesBos'ом :muscle:_ здесь [моё творенье](https://kuznetsovandrey76.github.io/JavaScript30/)  
