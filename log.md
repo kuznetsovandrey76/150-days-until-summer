@@ -1,7 +1,9 @@
 # 150 Days until Summer - Log   
 ### Day 5: January 7, Saturday   
 **Today's Progress**:  
-**Thoughts**:  
+1. :rocket: [Учебник JavaScript](https://learn.javascript.ru/) - _Наше всё (русский вариант), автор: «Сами-Знаете-Кто»_  
+2. Продолжаю двигаться вперед на [Free Code Camp][FreeCodeCamp] + познакомился с npm  
+**Thoughts**: Последние задания на [Free Code Camp][FreeCodeCamp] пока для меня сложноваты, вернусь к ним позже. Хорошо бы вспомнить все алгоритмы в математике (по крайней мере их не трудно найти)   
 **Useful link(s)**:  
 1. [И. Кантор](https://learn.javascript.ru/welcome-to-slack) - _about Slack_  
 2. [loftschool](https://loftschool.com/uploads/manuals/web-adv.pdf) - _Все прелести Slack_  
