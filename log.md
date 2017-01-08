@@ -1,4 +1,13 @@
 # 150 Days until Summer - Log   
+### Day 6: January 8, Sunday   
+**Today's Progress**:  
+1. Бороздил просторы бескрайнего интернета  
+2. [JavaScript the Definitive Guide 6th](http://javascript.ru/book/definitiveguide) - _Надеюсь сами поймете_  
+**Thoughts**: Кто ищет, тот найдет    
+**Useful link(s)**:  
+1. [TOP500](http://www.alexa.com/topsites) - _Обратите внмание_
+
+
 ### Day 5: January 7, Saturday   
 **Today's Progress**:  
 1. :rocket: [Учебник JavaScript](https://learn.javascript.ru/) - _Наше всё (русский вариант), автор: «Сами-Знаете-Кто»_  
