@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log   
+### Day 9: January 11, Wednesday      
+**Today's Progress**:   
+1. Promise, Ajax, this and Prototype     
+2. [Сам не смотрел :)](https://www.youtube.com/watch?v=NgNRRI9s7uk)  
+**Thoughts**: Посмотрел - сделай, не сделал - забыл!  
+**Useful link(s)**:  
+:stuck_out_tongue_winking_eye:
+
 ### Day 8: January 10, Tuesday    
 **Today's Progress**:  
 1. Бьем, бьем и бьем по Free Code Camp  
