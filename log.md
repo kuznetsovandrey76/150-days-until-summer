@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log   
+### Day 10: January 12, Thursday      
+**Today's Progress**:   
+1. Ребята с [uWebDesign](https://www.youtube.com/playlist?list=PLZfRjCZl2NuS1suF-Vo0t5_WhjozMoPMU) не перестают радовать  
+**Thoughts**: Главное `делать`  
+**Useful link(s)**:  
+1. [Руководство для начинающих по Node.js](http://nodeguide.ru/doc/felix/beginner/) - _от Felix’a_  
+2. [10 Interview Questions](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.wpk8nklf8) - _Eric Elliott_   
+
 ### Day 9: January 11, Wednesday      
 **Today's Progress**:   
 1. Promise, Ajax, this and Prototype     
