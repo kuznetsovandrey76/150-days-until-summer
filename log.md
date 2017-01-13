@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log   
+### Day 11: January 13, Friday      
+**Today's Progress**:   
+1. ООП: Инкапсуляция, наследование, полиморфизм  
+**Thoughts**:  Сегодня оказался без интернета и доступа к телефону. Давно я не заходил в библиотеки, оказывается и там есть материал по программированию (азы). Кто ищет, тот всегда найдется способ узнать что-то новое    
+**Useful link(s)**:  
+1. Библиотеки  
+
 ### Day 10: January 12, Thursday      
 **Today's Progress**:   
 1. Ребята с [uWebDesign](https://www.youtube.com/playlist?list=PLZfRjCZl2NuS1suF-Vo0t5_WhjozMoPMU) не перестают радовать  
