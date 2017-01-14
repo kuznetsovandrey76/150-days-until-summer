@@ -1,4 +1,14 @@
 # 150 Days until Summer - Log   
+### Day 12: January 14, Saturday        
+**Today's Progress**:   
+1. [Как я перестал верить технологиям](https://www.youtube.com/watch?v=f4uXBpP_xxY) - _Алексей Симоненко (htmlacademy)_  
+2. [Anti hype](https://www.youtube.com/watch?v=xPFRUM_oDKA) - _Andrey Listochkin, Вот как надо преподносить информацию_   
+**Thoughts**: Сегодня услышал интереснейшие доклады, умеют же люди вдохновить. Спустя долгие годы и я осознал одну из житейских мудростей. Занимайся тем что нравиться, будь в потоке и будет тебе счастье    
+**Useful link(s)**:  
+1. [Основы ООП](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu) - _Освежите в памяти_
+
+
+
 ### Day 11: January 13, Friday      
 **Today's Progress**:   
 1. ООП: Инкапсуляция, наследование, полиморфизм  
