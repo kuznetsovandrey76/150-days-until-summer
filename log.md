@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log   
+### Day 13: January 15, Sunday        
+**Today's Progress**:  
+Поверьте на слово, прогресс сегодня был :fire:  
+**Thoughts**: Взвесив все за и против я пришел к выводу, что после ванилки, плотно берусь за Ember  
+![ember](https://gitlab.com/uploads/group/avatar/388399/0cf15665a9146ba852bf042b0652780a.png)  
+**Useful link(s)**:  
+Когда нет ссылок, не буду изобретать велосипед // ember сами сможете найти  
+
 ### Day 12: January 14, Saturday        
 **Today's Progress**:   
 1. [Как я перестал верить технологиям](https://www.youtube.com/watch?v=f4uXBpP_xxY) - _Алексей Симоненко (htmlacademy)_  
