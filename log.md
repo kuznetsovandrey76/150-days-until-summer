@@ -1,4 +1,14 @@
 # 150 Days until Summer - Log   
+### Day 14: January 16, Monday        
+**Today's Progress**:  
+1. Еще на шаг ближе к Front End Development Certificate  
+2. `querySelectorAll + addEventListener`  
+3. [Сергей Немчинский и Андрей Листочкин](https://youtu.be/Pi6wyDxp71U)    
+**Thoughts**: Чувствую, что надо еще раз полностью пересмотреть все записи Sorax'a    
+**Useful link(s)**:  
+1. [Kottans](https://github.com/Kottans/web) - _Поделюсь ссылкой на Котанов, там очень много полезной инфы_
+  
+
 ### Day 13: January 15, Sunday        
 **Today's Progress**:  
 Поверьте на слово, прогресс сегодня был :fire:  
