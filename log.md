@@ -1,4 +1,13 @@
 # 150 Days until Summer - Log   
+### Day 15: January 17, Tuesday        
+**Today's Progress**:  
+1. Работаю над своим калькулятором  
+2. :book: JavaScript the Good Parts  
+**Thoughts**: Open Source двигатель прогресса   
+**Useful link(s)**:  
+1. [Тест Джоэла](http://russian.joelonsoftware.com/Articles/TheJoelTest.html) - _12 шагов к лучшему коду_   
+2. [WHATWG](https://whatwg.org/)   
+
 ### Day 14: January 16, Monday        
 **Today's Progress**:  
 1. Еще на шаг ближе к Front End Development Certificate  
@@ -6,8 +15,7 @@
 3. [Сергей Немчинский и Андрей Листочкин](https://youtu.be/Pi6wyDxp71U)    
 **Thoughts**: Чувствую, что надо еще раз полностью пересмотреть все записи Sorax'a    
 **Useful link(s)**:  
-1. [Kottans](https://github.com/Kottans/web) - _Поделюсь ссылкой на Котанов, там очень много полезной инфы_
-  
+1. [Kottans](https://github.com/Kottans/web) - _Поделюсь ссылкой на Котанов, там очень много полезной инфы_    
 
 ### Day 13: January 15, Sunday        
 **Today's Progress**:  
@@ -24,9 +32,7 @@
 3. На Free Code Camp осталось :seven: Заданий and :six: Проектов  
 **Thoughts**: Сегодня услышал интереснейшие доклады, умеют же люди вдохновить. Спустя долгие годы и я осознал одну из житейских мудростей. Занимайся тем что нравиться, будь в потоке и будет тебе счастье    
 **Useful link(s)**:  
-1. [Основы ООП](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu) - _Освежите в памяти_
-
-
+1. [Основы ООП](https://www.youtube.com/playlist?list=PL6LDsbZOeyrx462VmH18qS0a9Dw9LwpSu) - _Освежите в памяти_  
 
 ### Day 11: January 13, Friday      
 **Today's Progress**:   
