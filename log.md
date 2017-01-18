@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log   
+### Day 16: January 18, Wednesday        
+**Today's Progress**:  
+1. Доделал [калькулятор](https://kuznetsovandrey76.github.io/calculator/), пока что черновой вариант  
+**Thoughts**: Иногда надо отвлечься и посмотреть что-нибудь новое. Hugo - интересная реализация, теперь я понял, что блог лучше разделить на отдельные посты, которые разместить в отдельной папке `пока не разобрался mongodb`   
+**Useful link(s)**:  
+1. [HUGO](http://gohugo.io/) - _Быстрое создание сайта визитки/блога_
+
+
 ### Day 15: January 17, Tuesday        
 **Today's Progress**:  
 1. Работаю над своим калькулятором  
