@@ -1,11 +1,17 @@
 # 150 Days until Summer - Log   
+### Day 17: January 19, Thursday        
+**Today's Progress**:  
+1. Сделал черновой вариант Pomodoro, очень сырой вариант   
+**Thoughts**: Чувствую себя все уверенне и увереннее с каждым днем :flushed: [(посмотри на досуге)](https://habrahabr.ru/post/117838/). Не буду скидывать ссылки на пример идеальный пример Pomodoro (тебе не составит труда найти его).   
+**Useful link(s)**:  
+1. [Livereload](http://livereload.com/) - _Автоматическая перезагрузка браузера при изменении файлов (не забудь про расширение к chrome - LiveReload)_  
+
 ### Day 16: January 18, Wednesday        
 **Today's Progress**:  
 1. Доделал [калькулятор](https://kuznetsovandrey76.github.io/calculator/), пока что черновой вариант  
 **Thoughts**: Иногда надо отвлечься и посмотреть что-нибудь новое. Hugo - интересная реализация, теперь я понял, что блог лучше разделить на отдельные посты, которые разместить в отдельной папке `пока не разобрался с mongodb`   
 **Useful link(s)**:  
 1. [HUGO](http://gohugo.io/) - _Быстрое создание сайта визитки/блога_
-
 
 ### Day 15: January 17, Tuesday        
 **Today's Progress**:  
