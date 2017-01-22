@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log   
+### Day 20: January 22, Sunday        
+**Today's Progress**:  
+**Thoughts**:  
+**Useful link(s)**:  
+1. [Project Euler](https://projecteuler.net/) - _Решайте задачки_  
+2. [Проект Эйлера](http://euler.jakumo.org/) - _на русском_
+
 ### Day 19: January 21, Saturday        
 **Today's Progress**:  
 1. Сделал черновой вариант TwitchTV, осталось синхронизировать запросы  
