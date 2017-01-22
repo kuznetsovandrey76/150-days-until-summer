@@ -1,10 +1,14 @@
 # 150 Days until Summer - Log   
 ### Day 20: January 22, Sunday        
 **Today's Progress**:  
-**Thoughts**:  
+1. Разобрался с twitch'ом. Наверно реализация малясь корявая будет. Кто может пусть подскажет :stuck_out_tongue_winking_eye:   
+2. Лекции Ивана Бибилов на ШРИ, от души спасибо  
+**Thoughts**:  Смотрел, делал. Читал, делал, а потом еще раз делал  
 **Useful link(s)**:  
+:bomb: [es5](http://es5.github.io/)  
 1. [Project Euler](https://projecteuler.net/) - _Решайте задачки_  
-2. [Проект Эйлера](http://euler.jakumo.org/) - _на русском_
+2. [Проект Эйлера](http://euler.jakumo.org/) - _на русском_  
+Взял на заметку _Роджер Пенроуз: Новый ум короля. О компьютерах, мышлении и законах физики_
 
 ### Day 19: January 21, Saturday        
 **Today's Progress**:  
