@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log   
+### Day 21: January 23, Monday        
+**Today's Progress**:  
+1. Осталось навести марафет с twitch'ом  
+**Thoughts**: Мне нравятся те IT'шники, которые вещают в open source. Именно благодаря нему, прогресс движется семимильными шагами (_и не только ему_). Живите в гармонии с собой и не тормозите, а то все пропустите         
+**Useful link(s)**:  
+1. [LoftBlog радует](https://youtu.be/be-iPTXfcX4) - _Внимательно посмотреть после 1:12:15 // Что спросил, то и услышал :fire:_   
+2. [ReturnTrue](http://alf.nu/ReturnTrue) - _А ты знаешь js?_  
+
 ### Day 20: January 22, Sunday        
 **Today's Progress**:  
 1. Разобрался с twitch'ом. Наверно реализация малясь корявая будет. Кто может пусть подскажет :stuck_out_tongue_winking_eye:   
