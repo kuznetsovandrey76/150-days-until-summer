@@ -1,6 +1,15 @@
 # 150 Days until Summer - Log   
 ### Day 21: January 23, Monday        
 **Today's Progress**:  
+1. [Twitch](https://kuznetsovandrey76.github.io/twitch/index.html) - готово  
+2. [Pomodoro](https://kuznetsovandrey76.github.io/pomodoro/index.html) - готово  
+**Thoughts**: Я добил Twitch and Pomodoro, хватит уже откладывать в долгий ящик, лучше в процессе доработаю функционал и "чудесный" дизайн. ReturnTrue оказался не так уж и легок.     
+**Useful link(s)**:  
+1. [Работа с аудио online](https://tools.diktorov.net/audio-converter.html) - _Таких прог уйма, но именно эта мне сегодня помогла_   
+
+
+### Day 21: January 23, Monday        
+**Today's Progress**:  
 1. Осталось навести марафет с twitch'ом  
 **Thoughts**: Мне нравятся те IT'шники, которые вещают в open source. Именно благодаря нему, прогресс движется семимильными шагами (_и не только ему_). Живите в гармонии с собой и не тормозите, а то все пропустите         
 **Useful link(s)**:  
