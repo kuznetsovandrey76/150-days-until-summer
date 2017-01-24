@@ -1,5 +1,5 @@
 # 150 Days until Summer - Log   
-### Day 21: January 23, Monday        
+### Day 22: January 24, Tuesday        
 **Today's Progress**:  
 1. [Twitch](https://kuznetsovandrey76.github.io/twitch/index.html) - готово  
 2. [Pomodoro](https://kuznetsovandrey76.github.io/pomodoro/index.html) - готово  
