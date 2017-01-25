@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log   
+### Day 23: January 25, Wednesday        
+**Today's Progress**:  
+1. Продолжаем работу с Крестиками-Ноликами, взялся за Simon Games, везде осталась только работа с компьютерной логикой  
+**Thoughts**: Не забывай про видеоуроки Padawan       
+**Useful link(s)**: 
+Сегодня ссылки касаются только бега
+
 ### Day 22: January 24, Tuesday        
 **Today's Progress**:  
 1. [Twitch](https://kuznetsovandrey76.github.io/twitch/index.html) - готово  
