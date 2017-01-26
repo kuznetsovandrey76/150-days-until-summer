@@ -1,9 +1,16 @@
-# 150 Days until Summer - Log   
+# 150 Days until Summer - Log  
+### Day 24: January 26, Thursday        
+**Today's Progress**:  
+1. Tic Tac Toe Game - сделано. Осталась последняя задача!  
+**Thoughts**: Делаю слишком сильный упор на последних задачах FreeCodeCamp. Надо на пару дней отвлечься от них, осмотреться вокруг и вернуться с новыми силами    
+**Useful link(s)**:  
+1. [Web Standards Days](https://wsd.events/) - _Осталось 2 дня_
+
 ### Day 23: January 25, Wednesday        
 **Today's Progress**:  
 1. Продолжаем работу с Крестиками-Ноликами, взялся за Simon Games, везде осталась только работа с компьютерной логикой  
 **Thoughts**: Не забывай про видеоуроки Padawan       
-**Useful link(s)**: 
+**Useful link(s)**:  
 Сегодня ссылки касаются только бега
 
 ### Day 22: January 24, Tuesday        
