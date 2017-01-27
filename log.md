@@ -1,4 +1,15 @@
-# 150 Days until Summer - Log  
+# 150 Days until Summer - Log 
+### Day 25: January 27, Friday         
+**Today's Progress**:  
+1. Simon Game - почти готова, но не буду торопить события. Для в остальных проектах, приведу дизайн в хоть какой то порядок  
+2. Посмотрел о чем будут доклады на WSD, поискал информацию о докладчиках и открыл для себя много нового   
+**Thoughts**: Век живи, век учись. Тренер(доверие), Команда(взаимопомощь), Цели(вера), Обязательства(смелость)   
+**Useful link(s)**:  
+1. [Web Game Dev](https://developer.mozilla.org/en-US/docs/Games/Introduction) - _Mozilla_  
+2. [DEVgamm](http://devgamm.com/moscow2017/ru/) - _Во время игр быстрее учимся_  
+3. [GAME](http://browserquest.mozilla.org/) - _Хороший пример браузерной игры_  
+and [доп](https://learning.mozilla.org/en-US/web-literacy/) - _Надо взглянуть на это позже_  
+
 ### Day 24: January 26, Thursday        
 **Today's Progress**:  
 1. Tic Tac Toe Game - сделано. Осталась последняя задача!  
