@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log 
+### Day 26: January 28, Saturday
+
+**Today's Progress**:   
+1. Уехал в Yandex, на Web Standards Day  
+**Thoughts**: Услышу, увижу и почувствую много нового  
+**Useful link(s)**:   
+За ночь новых ссылок не появилось :)  
+
 ### Day 25: January 27, Friday         
 **Today's Progress**:  
 1. Simon Game - почти готова, но не буду торопить события. Для в остальных проектах, приведу дизайн в хоть какой то порядок  
