@@ -1,11 +1,13 @@
 # 150 Days until Summer - Log  
 ### Day 28: January 30, Monday
-**Today's Progress**:   
+**Today's Progress**:  
+1. Доделал все основные проекты на Free Code Camp  
+2. Немного подкорректировал "дизайн" на своем сайте (все репозитории нуждаются в code review)   
 **Thoughts**: Вместо тысячи слов  
-![Front End Development Certificate](https://c1.staticflickr.com/1/365/31798262783_441ac31c69_n.jpg)  
+![Front End Development Certificate](https://c1.staticflickr.com/1/365/31798262783_441ac31c69_n.jpg)   
+3 месяца я шел к этому. И теперь скажу вам, чувствую значительное улучшение своих skills. Привычка выработалась, мне это доставляет удовольствие. `Продолжаем двигаться дальше`    
 **Useful link(s)**:  
-
-
+:runner:
 
 ### Day 27: January 29, Sunday
 **Today's Progress**:   
