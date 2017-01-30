@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 28: January 30, Monday
+**Today's Progress**:   
+**Thoughts**: Вместо тысячи слов  
+![Front End Development Certificate](https://c1.staticflickr.com/1/365/31798262783_441ac31c69_n.jpg)  
+**Useful link(s)**:  
+
+
+
 ### Day 27: January 29, Sunday
 **Today's Progress**:   
 1. Simon Game готова. Последний шаг перед сертификатом, необходимо откорректировать во всех проектах дизайн, дизайн и еще раз дизайн. Как жаль, что пока у меня нет знакомых Артемиев Лебедевых    
