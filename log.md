@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 29: January 31, Tuesday
+**Today's Progress**:   
+1. Вспоминаю, освежаю, продолжаю изучать верстку на HTMLacademy   
+**Thoughts**: Добавляю к скриптам, верстку. И конечно же продолжаю знакомство с бэкендом и DB    
+**Useful link(s)**:   
+1. [HTMLacademy](https://htmlacademy.ru/profile/id168743) - _Освежаю Азы_  
+2. [DNS](https://howdns.works/ep1/) - _так работает DNS_
+
 ### Day 28: January 30, Monday
 **Today's Progress**:  
 1. Доделал все основные проекты на Free Code Camp  
