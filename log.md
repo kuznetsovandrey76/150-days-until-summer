@@ -1,4 +1,14 @@
 # 150 Days until Summer - Log  
+### Day 30: February 1, Wednesday
+**Today's Progress**:   
+1. К сожалению только смотрел курс лекций HTMLacademy  
+**Thoughts**: Когда смотришь обучающие курсы всегда узнаешь что-то новое или переосмысливаешь уже давно известный материал. Прям как с книгами     
+**Useful link(s)**:   
+1. [frontendmasters](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/) - _Уйма полезных ссылок_  
+2. [smashingmagazine](https://www.smashingmagazine.com/) - _читать каждый день_  
+3. [stackshare](https://stackshare.io/stacks) - _stack различных компаний_  
+а также [haml](https://haml.ru/about/), [sass](https://sass-scss.ru/guide/) and [bem](https://ru.bem.info/)   
+
 ### Day 29: January 31, Tuesday
 **Today's Progress**:   
 1. Вспоминаю, освежаю, продолжаю изучать верстку на HTMLacademy   
