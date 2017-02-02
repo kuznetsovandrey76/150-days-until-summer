@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 31: February 2, Thursday
+**Today's Progress**:   
+1. Верстка на HTMLacademy   
+**Thoughts**: Нет времени, желания, сил кодить? `все равно` покодь немного. Посмотри лекции из академии или послушай какой-нибудь суровый подкаст   
+**Useful link(s)**:  
+1. [CHINGU](https://tropicalchancer.github.io/projectus/) - _Давно пора разместить эту ссылку, именно здесь познакомился с зарубежными единомышленниками_  
+
 ### Day 30: February 1, Wednesday
 **Today's Progress**:   
 1. К сожалению только смотрел курс лекций HTMLacademy  
