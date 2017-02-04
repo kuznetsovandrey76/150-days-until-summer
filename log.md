@@ -1,4 +1,13 @@
 # 150 Days until Summer - Log  
+### Day 33: February 4, Saturday
+**Today's Progress**:   
+1. Разбор полетов в MongoDB  
+2. Добавляю в свой арсенал `heroku`  
+3. Перешел к Back End'у на Free Code Camp  
+**Thoughts**: Как же в некоторых моментах тяжело идет изучение новых технологий. Но мы не сдаемся :muscle: находим пути для решения и идем дальше  
+**Useful link(s)**:  
+1. [mongo-book](http://jsman.ru/mongo-book/index.html) - _Азы MongoDB_  
+
 ### Day 32: February 3, Friday
 **Today's Progress**:   
 1. Дорабатываю Pomodoro под собственные нужды  
