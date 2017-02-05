@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 34: February 5, Sanday
+**Today's Progress**:   
+1. Дорабатываю свой сайт [kuznetsovandrey76](https://kuznetsovandrey76.github.io/)  
+2. `learnyounode` на Free Code Camp  
+**Thoughts**: Не просто думать над двумя совершенно разными вещами одновременно, во всем необходим 100%-ый фокус внимания  
+**Useful link(s)**:  
+1. [форматирование CSS](http://www.styleneat.com/index.php) - _Один из множества инструментов_   
+
 ### Day 33: February 4, Saturday
 **Today's Progress**:   
 1. Разбор полетов в MongoDB  
