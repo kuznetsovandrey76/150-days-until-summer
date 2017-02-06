@@ -1,5 +1,12 @@
 # 150 Days until Summer - Log  
-### Day 34: February 5, Sanday
+### Day 35: February 6, Monday
+**Today's Progress**:   
+1. learnyounode and loftschool  
+**Thoughts**: Оцени себя и вычти 5  
+**Useful link(s)**:  
+1. [Обязательно посмотри](https://www.youtube.com/watch?v=9lFVgzIMTjQ&t) - _от создателя "Сделайте мне красиво"_  
+
+### Day 34: February 5, Sunday
 **Today's Progress**:   
 1. Дорабатываю свой сайт [kuznetsovandrey76](https://kuznetsovandrey76.github.io/)  
 2. `learnyounode` на Free Code Camp  
