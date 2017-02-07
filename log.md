@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 36: February 7, Tuesday
+**Today's Progress**:   
+1. На шаг ближе в FreeCodeCamp  
+2. Много, много очень важных мелочей из которых и складывается общее представление  
+**Thoughts**: Возвращаем системность в наши занятия, в течение последующих 20 дней (а может и быстрее) пройти курс Комплексное обучение JS, перед сном :book: `Structure and Interpretation of Computer Programs` (MIT плохого не советует)   
+**Useful link(s)**:  
+1. [Алгоритмы](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/) - _10 основных алгоритмов"_  
+
 ### Day 35: February 6, Monday
 **Today's Progress**:   
 1. learnyounode and loftschool  
