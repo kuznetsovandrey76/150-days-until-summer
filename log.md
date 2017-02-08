@@ -4,6 +4,7 @@
 1.  
 **Thoughts**:  
 **Useful link(s)**:   
+1. [es6-feature](http://es6-features.org/) - _Что изменилось с приходом es6_  
 
 ### Day 36: February 7, Tuesday
 **Today's Progress**:   
