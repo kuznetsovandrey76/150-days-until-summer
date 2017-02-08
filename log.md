@@ -1,12 +1,13 @@
 # 150 Days until Summer - Log  
 ### Day 37: February 8, Wednesday
 **Today's Progress**:   
-1.  
-**Thoughts**:  
+1. **edu:** Введение в web-технологии :white_check_mark:  
+2. Попытка перехода на gulp - [gist](https://gist.github.com/kuznetsovandrey76/1a013d1855af4bf1720a6464789b483b)  
+**Thoughts**: Было положено начало, как обычно бодрое. Продолжаем в том же духе, дальше больше и сложнее   
 **Useful link(s)**:   
 1. [es6-feature](http://es6-features.org/) - _Что изменилось с приходом es6_  
 2. [kangax](http://kangax.github.io/) - _Разные полезности_   
-3. [Вебинары](https://goo.gl/XXILdR) - _[J]u[S]t prototype this!_  
+3. [Вебинары](https://goo.gl/XXILdR) - _один из которых - [J]u[S]t prototype this!_   
 
 ### Day 36: February 7, Tuesday
 **Today's Progress**:   
