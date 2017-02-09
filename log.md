@@ -1,4 +1,10 @@
 # 150 Days until Summer - Log  
+### Day 38: February 9, Thursday
+**Today's Progress**:   
+1.  
+**Thoughts**:     
+**Useful link(s)**:  
+
 ### Day 37: February 8, Wednesday
 **Today's Progress**:   
 1. **edu:** Введение в web-технологии :white_check_mark:  
