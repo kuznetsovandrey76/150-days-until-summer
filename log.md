@@ -1,9 +1,11 @@
 # 150 Days until Summer - Log  
 ### Day 38: February 9, Thursday
 **Today's Progress**:   
-1.  
-**Thoughts**:     
-**Useful link(s)**:  
+1. **edu:** Функции :white_check_mark:  
+2. Gulp - углубился еще сильнее  
+**Thoughts**: Когда накладываешь новые знания на уже полученный опыт, материал усваивается намного лучше         
+**Useful link(s)**:   
+1. [chrome-devtools](https://developers.google.com/web/tools/chrome-devtools/console/) - _сonsole_
 
 ### Day 37: February 8, Wednesday
 **Today's Progress**:   
