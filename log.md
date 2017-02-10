@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 39: February 10, Friday
+**Today's Progress**:   
+1. **edu:** Обработка ошибок и отладка :white_check_mark: + часть **edu:** Структуры данных объектов и массивов   
+**Thoughts**: Куй железо пока горячо!   
+**Useful link(s)**:   
+1. [JSCS](http://jscs.info/) - _style guide_
+
 ### Day 38: February 9, Thursday
 **Today's Progress**:   
 1. **edu:** Функции :white_check_mark:  
