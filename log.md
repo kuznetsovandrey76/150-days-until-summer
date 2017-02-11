@@ -1,4 +1,13 @@
 # 150 Days until Summer - Log  
+### Day 40: February 11, Saturday
+**Today's Progress**:   
+1. **edu:** Структура данных объектов и массивов :white_check_mark: + домашки   
+2. Пара заданий на Free Code Camp  
+3. Переделываю свой сайт по БЭМ'у  
+**Thoughts**: `Ввязаться`      
+**Useful link(s)**:   
+`empty`
+
 ### Day 39: February 10, Friday
 **Today's Progress**:   
 1. **edu:** Обработка ошибок и отладка :white_check_mark: + часть **edu:** Структуры данных объектов и массивов   
