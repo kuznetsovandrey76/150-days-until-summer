@@ -5,7 +5,9 @@
 2. `var` instanceof `Type` // return (true|false)  
 3. Изменил свой [сайт](https://kuznetsovandrey76.github.io/andrewsmith/) и калькулятор по БЭМ'у (по крайне мере попытался)     
 **Thoughts**: Кто читает мой дневник и разбирается в css анимации, добавьте плавный переход в `exp.` и `skills` на моем сайте: [andrewsmith](https://kuznetsovandrey76.github.io/andrewsmith/). Пока я этого не сделал :smile:            
-**Useful link(s)**:   
+**Useful link(s)**:  
+1. [code2flow](https://code2flow.com/app) - _Конструктор алгоритмов_   
+2. [floating-point](http://floating-point-gui.de/) - _Проблемы плавающей точки_  
 
 ### Day 40: February 11, Saturday
 **Today's Progress**:   
