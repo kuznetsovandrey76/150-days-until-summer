@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 41: February 12, Sunday
+**Today's Progress**:   
+1. **edu:** Ответы на вопросы :white_check_mark:  
+2. `var` instanceof `Type` // return (true|false)  
+3. Изменил свой [сайт](https://kuznetsovandrey76.github.io/andrewsmith/) и калькулятор по БЭМ'у (по крайне мере попытался)     
+**Thoughts**: Кто читает мой дневник и разбирается в css анимации, добавьте плавный переход в `exp.` и `skills` на моем сайте: [andrewsmith](https://kuznetsovandrey76.github.io/andrewsmith/). Пока я этого не сделал :smile:            
+**Useful link(s)**:   
+
 ### Day 40: February 11, Saturday
 **Today's Progress**:   
 1. **edu:** Структура данных объектов и массивов :white_check_mark: + домашки   
