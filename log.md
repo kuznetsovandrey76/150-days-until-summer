@@ -2,9 +2,10 @@
 ### Day 42: February 13, Monday
 **Today's Progress**:   
 1. **edu:** DOM :white_check_mark:  
-**Thoughts**:     
+2. Перехожу к Express на Free Code Camp  
+**Thoughts**: Главное не забывать про базы данных и бэкенд, уже давно пора убрать из моих проектов все данные        
 **Useful link(s)**:  
-`empty`  
+1. :book: [express-in-action](https://www.manning.com/books/express-in-action?a_bid=fe3fcff7&a_aid=express-in-action)
 
 ### Day 41: February 12, Sunday
 **Today's Progress**:   
