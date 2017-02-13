@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 42: February 13, Monday
+**Today's Progress**:   
+1. **edu:** DOM :white_check_mark:  
+**Thoughts**:     
+**Useful link(s)**:  
+`empty`  
+
 ### Day 41: February 12, Sunday
 **Today's Progress**:   
 1. **edu:** Ответы на вопросы :white_check_mark:  
