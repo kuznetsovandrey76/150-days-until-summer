@@ -3,7 +3,7 @@
 **Today's Progress**:   
 1. **edu:** События :white_check_mark:   
 2. **edu:** Aсинхронность :white_check_mark:  
-**Thoughts**:     
+**Thoughts**: Чем дальше в лес, тем интереснее. Приближаемся к nodejs, express, socket.io и mongodb      
 **Useful link(s)**:   
 1. [HTTP wiki](https://ru.wikipedia.org/wiki/HTTP) 
 
