@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 43: February 14, Tuesday  
+**Today's Progress**:   
+1. **edu:** События :white_check_mark:   
+2. **edu:** Aсинхронность :white_check_mark:  
+**Thoughts**:     
+**Useful link(s)**:   
+1. [HTTP wiki](https://ru.wikipedia.org/wiki/HTTP) 
+
 ### Day 42: February 13, Monday
 **Today's Progress**:   
 1. **edu:** DOM :white_check_mark:  
