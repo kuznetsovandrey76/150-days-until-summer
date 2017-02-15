@@ -1,7 +1,8 @@
 # 150 Days until Summer - Log  
 ### Day 44: February 15, Wednesday  
 **Today's Progress**:   
-1. :book: [Веб-разработка с применением Node и Express. Полноценное использование стека JavaScript](https://www.piter.com/collection/bestsellery-oreilly/product/veb-razrabotka-s-primeneniem-node-i-express-polnotsennoe-ispolzovanie-steka-javascript)  
+1. :book: [Веб-разработка с применением Node и Express. Полноценное использование стека JavaScript](https://www.piter.com/collection/bestsellery-oreilly/product/veb-razrabotka-s-primeneniem-node-i-express-polnotsennoe-ispolzovanie-steka-javascript)   
+2. **edu:** Aсинхронность практика :white_check_mark:   
 **Thoughts**:     
 **Useful link(s)**:   
 1. [handlebarsjs](http://handlebarsjs.com/) - _easy аналог Jade_  
