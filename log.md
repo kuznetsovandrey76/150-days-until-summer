@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 45: February 16, Thursday  
+**Today's Progress**:   
+1. **edu:** BOM :white_check_mark:   
+**Thoughts**: Почему-то всячески пытаюсь избежать тестирования, вот и сегодня не взошло на Express. Исправим            
+**Useful link(s)**:  
+`empty`  
+
 ### Day 44: February 15, Wednesday  
 **Today's Progress**:   
 1. :book: [Веб-разработка с применением Node и Express. Полноценное использование стека JavaScript](https://www.piter.com/collection/bestsellery-oreilly/product/veb-razrabotka-s-primeneniem-node-i-express-polnotsennoe-ispolzovanie-steka-javascript)   
