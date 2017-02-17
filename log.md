@@ -2,7 +2,8 @@
 ### Day 46: February 17, Friday  
 **Today's Progress**:   
 1. **edu:** Javascript(часть 2) :white_check_mark:   
-2. **edu:** Javascript(часть 3) :white_check_mark:   
+2. **edu:** Javascript(часть 3) :white_check_mark:  
+3. ![Red-Pandas](https://raw.githubusercontent.com/Kornil/Red-Panda-FCC-Favicon/master/favicon-red-panda/favicon-32x32.png) the launch **Red Pandas 2.0**    
 **Thoughts**: Повторение, мать учения              
 **Useful link(s)**:  
 1. [json-generator](http://www.json-generator.com/) - _Генератор JSON файлов_  
