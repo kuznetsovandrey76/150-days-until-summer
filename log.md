@@ -1,4 +1,14 @@
 # 150 Days until Summer - Log  
+### Day 46: February 17, Friday  
+**Today's Progress**:   
+1. **edu:** Javascript(часть 2) :white_check_mark:   
+2. **edu:** Javascript(часть 3) :white_check_mark:   
+**Thoughts**: Повторение, мать учения              
+**Useful link(s)**:  
+1. [json-generator](http://www.json-generator.com/) - _Генератор JSON файлов_  
+2. [placehold](http://placehold.it/) - _Создание макетов изображений (ширина/высота)_  
+3. [seoxa](https://seoxa.net/) - _Можно найти интересные курсы_  
+
 ### Day 45: February 16, Thursday  
 **Today's Progress**:   
 1. **edu:** BOM :white_check_mark:   
