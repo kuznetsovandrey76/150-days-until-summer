@@ -4,6 +4,7 @@
 1. Чтоб `subl` открывать через `bash` добавляем путь до приложения в `PATH`  
 **Thoughts**:            
 **Useful link(s)**:  
+1. [mlab](https://www.mlab.com) - _Hosting MongoDB_  
 > bash alias  
 1. `touch .bashrc` в корневой директории (`cd`)  
 2. в .bashrc для каждой команды создаем `alias gs='git status` и сохраняем  
