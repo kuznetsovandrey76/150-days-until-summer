@@ -2,7 +2,8 @@
 ### Day 47: February 18, Saturday  
 **Today's Progress**:   
 1. Чтоб `subl` открывать через `bash` добавляем путь до приложения в `PATH`  
-**Thoughts**:            
+2. **edu:** Mongo.db и mongoose :white_check_mark:  
+**Thoughts**: Чудесный день, усвоено очень много новой полезной информации, проясняется картина в работе с БД             
 **Useful link(s)**:  
 1. [mlab](https://www.mlab.com) - _Hosting MongoDB_  
 > bash alias  
