@@ -1,4 +1,10 @@
 # 150 Days until Summer - Log  
+### Day 48: February 19, Sunday    
+**Today's Progress**:   
+1. Развернул первый рабочий сайт на `heroku`   
+**Thoughts**:            
+**Useful link(s)**:  
+
 ### Day 47: February 18, Saturday  
 **Today's Progress**:   
 1. Чтоб `subl` открывать через `bash` добавляем путь до приложения в `PATH`  
