@@ -1,7 +1,7 @@
 # 150 Days until Summer - Log  
 ### Day 47: February 18, Saturday  
 **Today's Progress**:   
-1. 
+1. Чтоб `subl` открывать через `bash` добавляем путь до приложения в `PATH`  
 **Thoughts**:            
 **Useful link(s)**:  
 > bash alias  
@@ -9,7 +9,9 @@
 2. в .bashrc для каждой команды создаем `alias gs='git status` и сохраняем  
 3. `source .bashrc` - обновляем данные из корневой директории  
 4. наслаждаемся  
-
+или   
+[.gitconfig](https://gist.github.com/pksunkara/988716) - _Добавляем alias в .gitconfig_  
+   
 ### Day 46: February 17, Friday  
 **Today's Progress**:   
 1. **edu:** Javascript(часть 2) :white_check_mark:   
