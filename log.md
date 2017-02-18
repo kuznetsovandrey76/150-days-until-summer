@@ -1,4 +1,15 @@
 # 150 Days until Summer - Log  
+### Day 47: February 18, Saturday  
+**Today's Progress**:   
+1. 
+**Thoughts**:            
+**Useful link(s)**:  
+> bash alias  
+1. `touch .bashrc` в корневой директории (`cd`)  
+2. в .bashrc для каждой команды создаем `alias gs='git status` и сохраняем  
+3. `source .bashrc` - обновляем данные из корневой директории  
+4. наслаждаемся  
+
 ### Day 46: February 17, Friday  
 **Today's Progress**:   
 1. **edu:** Javascript(часть 2) :white_check_mark:   
