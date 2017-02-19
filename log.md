@@ -2,8 +2,12 @@
 ### Day 48: February 19, Sunday    
 **Today's Progress**:   
 1. Развернул первый рабочий сайт на `heroku`   
-**Thoughts**:            
+2. Доработал `chingu-map`, еще подробнее разобрался с `mongodb`  
+3. Создал тестовую организацию на github  
+`и еще много по мелочи`  
+**Thoughts**: Так классно, когда понимаешь что твориться во фронтенде, бэкенде и базе данных               
 **Useful link(s)**:  
+1. [w3ii](http://www.w3ii.com/ru/index.html) - _online учебник, похоже на w3school_  
 
 ### Day 47: February 18, Saturday  
 **Today's Progress**:   
