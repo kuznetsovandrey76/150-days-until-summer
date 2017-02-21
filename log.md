@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 50: February 21, Tuesday    
+**Today's Progress**:   
+1. Сделал основную часть на `kuznetsovandrey76-diary`, необходимо разобраться с авторизацией и редактированием записей  
+**Thoughts**: Продолжаем движение вперед. Прошло 50 дней, бодрость до сих пор не покинула меня (значит это серьезно)                
+**Useful link(s)**:  
+1. [Блог Павла Радькова](http://paulradzkov.com/) - _Спасибо за CSS-селектор :not_
+
 ### Day 49: February 20, Monday    
 **Today's Progress**:   
 1. Приостановил лекции, разбираюсь с handlebars. Хочу связать его, marked.js и blog   
