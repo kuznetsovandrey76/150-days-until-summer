@@ -2,6 +2,7 @@
 ### Day 50: February 21, Tuesday    
 **Today's Progress**:   
 1. Сделал основную часть на `kuznetsovandrey76-diary`, необходимо разобраться с авторизацией и редактированием записей  
+![kuznetsovandrey76-diary](https://c1.staticflickr.com/3/2043/32912566841_b1a9f837bc_m.jpg)  
 **Thoughts**: Продолжаем движение вперед. Прошло 50 дней, бодрость до сих пор не покинула меня (значит это серьезно)                
 **Useful link(s)**:  
 1. [Блог Павла Радькова](http://paulradzkov.com/) - _Спасибо за CSS-селектор :not_
