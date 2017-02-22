@@ -1,4 +1,12 @@
 # 150 Days until Summer - Log  
+### Day 51: February 22, Friday    
+**Today's Progress**:   
+1. Прикрепляю к `kuznetsovandrey76-diary`авторизацию  
+2. Ember от Kottans  
+**Thoughts**: Пробуем                  
+**Useful link(s)**:  
+`читал книги, не до ссылок`  
+
 ### Day 50: February 21, Tuesday    
 **Today's Progress**:   
 1. Сделал основную часть на `kuznetsovandrey76-diary`, необходимо разобраться с авторизацией и редактированием записей  
