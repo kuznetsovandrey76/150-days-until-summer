@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 52: February 23, Saturday    
+**Today's Progress**:   
+1. [kuznetsovandrey76-diary](https://kuznetsovandrey76-diary.herokuapp.com/blog) готов. Теперь возвращаемся в начало и читаем документацию и книги, чтоб лучше понять как все это работает  
+**Thoughts**: Я `бомбил` этот MEAN :smile: Перехожу на Pomodoro 50/10                     
+**Useful link(s)**:  
+1. [fullstackacademy](https://www.fullstackacademy.com/road-to-code) - _Новая веха в развитии_  
+
 ### Day 51: February 22, Friday    
 **Today's Progress**:   
 1. Прикрепляю к `kuznetsovandrey76-diary`авторизацию  
