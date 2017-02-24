@@ -2,8 +2,9 @@
 ### Day 53: February 24, Friday    
 **Today's Progress**:   
 1. Теперь использую `pomodoro`    
-**Thoughts**:                       
+**Thoughts**: Сегодня я отдыхал. Послушал пару докладов, почитал книжку, подправил несколько проектов. Когда узнаешь что-то новое, надо сразу делать. Пусть это будет кривой велосипед, потом к нему можно вернуться и все подправить. Не надо оттягивать. `Берешь и сразу делаешь` + больше общения в сообществе!                           
 **Useful link(s)**:  
+1. [unicode symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp) - _w3schools color unicode_
 
 ### Day 52: February 23, Thursday    
 **Today's Progress**:   
