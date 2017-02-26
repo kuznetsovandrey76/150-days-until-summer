@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 55: February 26, Sunday      
+**Today's Progress**:   
+1. Разобрался с github авторизацией через passport.js - [проверяем :)](https://kuznetsovandrey76-exp-mon-git.herokuapp.com/)    
+**Thoughts**: Все получилось, пошел отдохну :smile: можете зайти и оставить пожелания в [issue](https://github.com/kuznetsovandrey76-team)                           
+**Useful link(s)**:  
+`empty`
+
 ### Day 54: February 25, Saturday      
 **Today's Progress**:   
 1. Я подумаю над видоизменением формата данного ежедневника     
