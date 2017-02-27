@@ -1,4 +1,13 @@
 # 150 Days until Summer - Log  
+### Day 56: February 27, Monday      
+**Today's Progress**:   
+1. Двигаюсь в сторону `Ext JS` && `PostgreSQL`  
+**Thoughts**: `Нужно бежать со всех ног, чтобы только оставаться на месте, а чтобы куда-то попасть, надо бежать как минимум вдвое быстрее!` _Льюис Кэрролл_                        
+**Useful link(s)**:  
+1. [sencha](http://docs.sencha.com/) - _documentation_  
+:book: [Ext JS 6 By Example](http://www.allitebooks.com/ext-js-6-by-example/)  
+:book: [Enterprise Web Development](http://enterprisewebbook.com/)  
+
 ### Day 55: February 26, Sunday      
 **Today's Progress**:   
 1. Разобрался с github авторизацией через passport.js - [проверяем :)](https://kuznetsovandrey76-exp-mon-git.herokuapp.com/)    
