@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 57: February 28, Tuesday      
+**Today's Progress**:   
+1. Docker :flushed:  
+**Thoughts**: пока я разбирался с _TUTORIAL: FULL-STACK JAVASCRIPT FOR THE ENTERPRISE. GETTING STARTED WITH: EXT JS, NODE.JS, EXPRESS, MONGODB AND DOCKER_ мой мозг периодически взрывался                          
+**Useful link(s)**:  
+1. [Lee Boonstra](https://www.leeboonstra.com/) - _помощь в Ext JS_
+
 ### Day 56: February 27, Monday      
 **Today's Progress**:   
 1. Двигаюсь в сторону `Ext JS` && `PostgreSQL`  
@@ -503,7 +510,7 @@ _Не стыдно быть маленьким и слабым, стыдно т�
 2. [topcoder](https://www.topcoder.com/members/kuznetsovandrey/) - _спортивное программирование_  
 3. [hackerrank](https://www.hackerrank.com/and_rey_q) -  _задания по программированию_  
 
-### Day 0: January 2, Monday ![@kuznetsovandrey76](https://avatars2.githubusercontent.com/u/16838647?v=3&s=16)   
+### Day 0: January 2, Monday    
 **Today's Progress**:  
 1. Изучен раздел Video Challenges: Computer Basics на [Free Code Camp][FreeCodeCamp]  
 2. Повторено и изучено несколько новых разделов на [cs50][cs50]    
