@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 58: March 1, Wednesday      
+**Today's Progress**:   
+1. Ура! Я разобрался с системой Ext JS 6. Сначала попрактикуюсь на GPL версии, потом перейду на trial  
+**Thoughts**: есть прогресс                        
+**Useful link(s)**:  
+1. [cmd-commands](https://www.joshmorony.com/complete-list-of-useful-sencha-cmd-commands/) - _Complete List of Useful Sencha Cmd Commands_
+
 ### Day 57: February 28, Tuesday      
 **Today's Progress**:   
 1. Docker :flushed:  
