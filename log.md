@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 59: March 2, Thursday      
+**Today's Progress**:   
+1.  
+**Thoughts**:                       
+**Useful link(s)**:  
+`sencha generate app --ext MyApp ./myapp`
+
 ### Day 58: March 1, Wednesday      
 **Today's Progress**:   
 1. Ура! Я разобрался с системой Ext JS 6. Сначала попрактикуюсь на GPL версии, потом перейду на trial  
