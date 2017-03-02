@@ -1,8 +1,8 @@
 # 150 Days until Summer - Log  
 ### Day 59: March 2, Thursday      
 **Today's Progress**:   
-1.  
-**Thoughts**:                       
+1. Удивительно, почему так "мало" информации об Ext JS? а уж про русскоязычную я вообще молчу   
+**Thoughts**: Учусь                        
 **Useful link(s)**:  
 `sencha generate app --ext MyApp ./myapp`
 
