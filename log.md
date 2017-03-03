@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 60: March 3, Friday      
+**Today's Progress**:   
+1. Создать ежедневник: с английским, спортом и кодом   
+**Thoughts**: День без кода :(                        
+**Useful link(s)**:  
+`empty`
+
 ### Day 59: March 2, Thursday      
 **Today's Progress**:   
 1. Удивительно, почему так "мало" информации об Ext JS? а уж про русскоязычную я вообще молчу   
