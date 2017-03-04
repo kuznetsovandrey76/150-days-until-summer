@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 61: March 4, Saturday      
+**Today's Progress**:   
+1. Сваял легенькое приложение [English-Sport-Code](https://ka76-englishsportcode.herokuapp.com/)    
+**Thoughts**: Освежил Heroku и MongoDB                          
+**Useful link(s)**:  
+1. [proglib](https://proglib.io/p/open-source-for-novice/) - _6 open-source проектов, может повернусь к этому_  
+
 ### Day 60: March 3, Friday      
 **Today's Progress**:   
 1. Создать ежедневник: с английским, спортом и кодом   
