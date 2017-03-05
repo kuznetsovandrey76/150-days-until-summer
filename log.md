@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 62: March 5, Sunday      
+**Today's Progress**:   
+1. ExtJS и NodeJS   
+**Thoughts**: Делаю проект, который поможет мне в работе                          
+**Useful link(s)**:  
+`empty`
+
 ### Day 61: March 4, Saturday      
 **Today's Progress**:   
 1. Сваял легенькое приложение [English-Sport-Code](https://ka76-englishsportcode.herokuapp.com/)    
