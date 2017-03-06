@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 63: March 6, Monday      
+**Today's Progress**:   
+1. Пилю сайт для души и работы (это на долго)   
+**Thoughts**: Нашел как совместить приятное с полезным                           
+**Useful link(s)**:  
+1. [HTML5  Doctor](http://html5doctor.com/) - _Все что надо знать об html5_
+
 ### Day 62: March 5, Sunday      
 **Today's Progress**:   
 1. ExtJS и NodeJS   
