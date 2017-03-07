@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 64: March 7, Tuesday      
+**Today's Progress**:   
+1. to be or not to be   
+**Thoughts**: No coding today                         
+**Useful link(s)**:  
+`empty`
+
 ### Day 63: March 6, Monday      
 **Today's Progress**:   
 1. Пилю сайт для души и работы (это на долго)   
