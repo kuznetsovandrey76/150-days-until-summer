@@ -1,4 +1,11 @@
 # 150 Days until Summer - Log  
+### Day 65: March 8, Wednesday      
+**Today's Progress**:   
+1. HTML5, CSS3, BEM, Express, Handlebars     
+**Thoughts**: Продолжаю работу над своим сайтом, этап проэктирования и создания прототипа                          
+**Useful link(s)**:  
+`empty`
+
 ### Day 64: March 7, Tuesday      
 **Today's Progress**:   
 1. to be or not to be   
