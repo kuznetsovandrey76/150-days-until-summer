@@ -1,4 +1,7 @@
 # 150 Days until Summer - Log  
+### Day 66: March 9, Thursday      
+**Thoughts**: Работу работаю над своим сайтом        
+
 ### Day 65: March 8, Wednesday      
 **Today's Progress**:   
 1. HTML5, CSS3, BEM, Express, Handlebars     
